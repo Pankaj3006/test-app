@@ -1,5 +1,7 @@
 # quiz-cli
 
+> README generated from the `main` branch contents of `Pankaj3006/test-app`.
+
 ## Overview
 
 `quiz-cli` is an interactive command-line quiz game built with Node.js. It loads quiz questions from a local JSON file, lets the user choose a category and question count, and then walks through the quiz with scoring, explanations, and a final results summary.
